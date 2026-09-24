@@ -6,7 +6,7 @@ Desenvolvo produtos para saúde, gestão jurídica, eventos e educação. Meu tr
 
 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou no **último período de Engenharia de Software**. Tenho foco em backend, automação de processos e confiabilidade: do desenho da solução à implantação e manutenção.
 
-[LinkedIn](https://www.linkedin.com/in/felipe-santos-332861288/) · [Contato por e-mail](mailto:felipesantos_fdcc@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/felipe-santos-de-almeida-332861288/) · [Contato por e-mail](mailto:felipesantos_fdcc@hotmail.com)
 
 ## Projetos em destaque
 
